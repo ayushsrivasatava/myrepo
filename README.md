@@ -1,0 +1,1 @@
+In this i have made a transformer less power suppply which can convert a 220v ac power supply to 5v dc supply at receiver end . the layout and schematic is drawn in ki cad . and this is my first time with ki cad and git hub .
